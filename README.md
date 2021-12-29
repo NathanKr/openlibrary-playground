@@ -13,7 +13,7 @@ experiment with <a href='https://openlibrary.org/'>openlibrary api</a>
 
 <h2>Usage</h2>
 the follwoing will search for the string books and will return 30 results at the most
-&lt;Books searchString="books" limitNum={30} /&gt;
+<p>&lt;Books searchString="books" limitNum={30} /&gt;</p>
 
 
 <h2>Open issues</h2>
