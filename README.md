@@ -21,3 +21,8 @@ the follwoing will search for the string books and will return 30 results at the
 <li>Get book description</li>
 <li>use input for search and limit</li>
 </ul>
+
+
+<h2>Setup</h2>
+<p>npm i</p>
+<p>npm run dev</p>
